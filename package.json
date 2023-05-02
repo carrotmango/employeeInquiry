@@ -4,7 +4,7 @@
   "description": "",
   "main": "apitest.js",
   "scripts": {
-    "start": "node.apitest.js",
+    "start": "node apitest.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
